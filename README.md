@@ -4,6 +4,8 @@
 - <b>Azure / Cloud Projects</b>
   - [Azure Honeynet/SOC](https://github.com/NathanRelph/Azure-Honeynet)
 
+<h2>🐱‍💻 About Me:</h2>
+
 - 🔭 I’m currently studying at WGU for BSCSIA.
 - 🌱 I’m currently learning Azure and OpenVAS.
 - ⚡ Fun fact: I'm a gamer and love going backpacking.
@@ -19,3 +21,4 @@
 [linkedin]: https://www.linkedin.com/in/nathan-relph-a27739235/
 [youtube]: https://www.youtube.com/@n8an424
 [discord]: https://discord.gg/7w9TeVKke3
+
