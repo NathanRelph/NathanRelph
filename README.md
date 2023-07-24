@@ -7,7 +7,7 @@
 <h2>🐱‍💻 About Me:</h2>
 
 - 🔭 I’m currently studying at WGU for BSCSIA.
-- 🌱 I’m currently learning Azure and OpenVAS.
+- 🌱 I’m currently learning Azure.
 - ⚡ Fun fact: I'm a gamer and love going backpacking.
 
 <h2> 📫 My Socials</h2>
