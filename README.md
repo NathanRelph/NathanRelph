@@ -5,7 +5,7 @@
   - [Azure Honeynet/SOC](https://github.com/NathanRelph/Azure-Honeynet)
     
 - <b>Other Projects</b>
-  - [SQL Library Database](https://youtu.be/R3SRNaIBkNs?t=0)
+  - [SQL Library Database](https://youtu.be/OoVCdRdgU-0?t=0)
 
 <h2>🐱‍💻 About Me:</h2>
 
