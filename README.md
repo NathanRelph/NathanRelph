@@ -9,8 +9,8 @@
 
 <h2>🐱‍💻 About Me:</h2>
 
-- 🔭 I’m currently studying at WGU for BSCSIA.
-- 🌱 Just passed Security+ 9/21/23.
+- 🔭 I’m currently job hunting.
+- 🌱 Just graduated as of 9/27/24!
 - ⚡ Fun fact: I'm a gamer and love going backpacking.
 
 <h2> 📫 My Socials</h2>
