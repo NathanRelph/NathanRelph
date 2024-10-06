@@ -6,6 +6,7 @@
     
 - <b>Other Projects</b>
   - [SQL Library Database](https://youtu.be/OoVCdRdgU-0?t=0)
+  - [Forensics Lab(FTK Imager/Autopsy/Diskpart/DBAN)](https://github.com/NathanRelph/Forensics-Lab)
 
 <h2>🐱‍💻 About Me:</h2>
 
