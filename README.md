@@ -24,5 +24,5 @@
 [instagram]: https://www.instagram.com/nathan.relph/
 [linkedin]: https://www.linkedin.com/in/nathan-relph-a27739235/
 [youtube]: https://www.youtube.com/@n8an424
-[discord]: https://discord.gg/7w9TeVKke3
+[discord]: https://discord.gg/3VGn8nSqRN
 
