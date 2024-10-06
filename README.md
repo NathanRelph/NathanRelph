@@ -5,8 +5,8 @@
   - [Azure Honeynet/SOC](https://github.com/NathanRelph/Azure-Honeynet)
     
 - <b>Other Projects</b>
+  - [Forensics Lab](https://github.com/NathanRelph/Forensics-Lab)
   - [SQL Library Database](https://youtu.be/OoVCdRdgU-0?t=0)
-  - [Forensics Lab(FTK Imager/Autopsy/Diskpart/DBAN)](https://github.com/NathanRelph/Forensics-Lab)
 
 <h2>🐱‍💻 About Me:</h2>
 
