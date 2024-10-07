@@ -6,6 +6,7 @@
     
 - <b>Other Projects</b>
   - [Forensics Lab](https://github.com/NathanRelph/Forensics-Lab)
+  - [Zendesk Demo](https://www.youtube.com/watch?v=1XZYxbS4W8g)
   - [SQL Library Database](https://youtu.be/OoVCdRdgU-0?t=0)
 
 <h2>🐱‍💻 About Me:</h2>
